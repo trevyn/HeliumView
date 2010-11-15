@@ -1,0 +1,3 @@
+HeliumView is a quick-n-dirty iPad app for viewing data collected during the Grassroots Mapping project at Science Hack Day SF 2010.
+
+It is NOT GREAT in a lot of ways, particularly with regard to awkwardly generating thumbnails at launch, leaving them all in CALayers, and never loading more detailed imagery. The layered opacity also really bogs it down when you zoom in, but it sure is pretty.
